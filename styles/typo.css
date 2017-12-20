@@ -4,7 +4,7 @@ h1{
 }
 
 h2{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     padding-bottom: 0.5em;
   }
@@ -14,21 +14,31 @@ h3{
     font-family: 'Bitter', serif;
 }
 
+h4{
+    font-family: 'Bitter', serif;
+    text-align: center;
+}
+
+span{
+    font-family: 'Bitter', serif;
+}
 
 p {
   font-family: 'Open Sans', sans-serif;
-  margin-bottom: 3em;
+  margin-bottom: 2em;
 }
 
 
 h1 {
   margin-top: 0;
-  font-size: 5.5em;
+  font-size: 4em;
 }
 
-h2 {font-size: 2em;}
+h2 {font-size: 1.2em;}
 
 h3 {font-size: 1.999em;}
+
+h4 {font-size: 1.999em;}
 
 small, .font_small {font-size: 0.707em;}
 
